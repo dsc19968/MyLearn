@@ -2,4 +2,4 @@
 
 [Demo](https://github.com/dsc19968/MyLearn/JavaScript30/03/index.html)
 
-[详解](https://github.com/liyuechun/JavaScript30-liyuechun/tree/master/04%20-%20Array%20Cardio%20Day%201)
+[详解](https://github.com/liyuechun/JavaScript30-liyuechun/tree/master/05%20-%20Flex%20Panel%20Gallery)
