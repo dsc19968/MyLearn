@@ -1,4 +1,4 @@
-在输入框中搜索字或者某个词快速匹配含有这个字或者是词的诗句。
+在输入框中搜索字或者某个词快速匹配含有这个字。
 
 [Demo](https://github.com/dsc19968/MyLearn/JavaScript30/06/index.html)
 
